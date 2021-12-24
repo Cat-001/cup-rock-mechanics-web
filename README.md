@@ -11,7 +11,7 @@
 
 - This web incloud **all members information** in Liuwei-Tanqiang rock mechanics group, **experimental operation**, **organization profile**, **project information**, **PPT or WORD Template download**, **numerical simulation software download and course**, **honourable reputation**, et al.
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 - 中国石油大学（北京）刘伟-谭强岩石力学课题组网站
 
